@@ -204,16 +204,6 @@ instead of inventing a separate source of truth.
 - `npm run check`: run lint, format, typecheck, test, architecture, and context checks
 - `npm run verify`: run `check` and then the build
 
-## License
-
-MIT is the right default here. For a boilerplate repository, it keeps reuse
-friction low, is widely understood, and avoids adding policy beyond the
-required attribution notice.
-
-If you want an explicit patent grant, Apache-2.0 is the stronger permissive
-alternative. For this starter, MIT is the simpler default and now applies via
-[`./LICENSE`](./LICENSE).
-
 ## Customization
 
 Keep customization light. The starter is meant to be opinionated.
